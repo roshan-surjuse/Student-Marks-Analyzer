@@ -34,6 +34,33 @@
 **Source Code:** [View the project on GitHub](https://github.com/roshan-surjuse/Student-Marks-Analyzer)
 
 ---
+## 🖥️ Application Screenshots
+
+### 📊 Main Dashboard
+
+<p align="center">
+  <img src="screenshots/dashboard.png" alt="Student Marks Analyzer Main Dashboard" width="850"/>
+</p>
+
+### 📈 Average Analysis
+
+<p align="center">
+  <img src="screenshots/average.png" alt="Student Average Analysis" width="850"/>
+</p>
+
+### 🎯 Percentage Analysis
+
+<p align="center">
+  <img src="screenshots/percentage.png" alt="Student Percentage Analysis" width="850"/>
+</p>
+
+<p align="center">
+  <a href="https://student-marks-analyzer-jjtttka7ysyrfkj7wjhjoe.streamlit.app/">
+    🚀 Open Live Demo
+  </a>
+</p>
+
+---
 
 ## ✨ About the Project
 
