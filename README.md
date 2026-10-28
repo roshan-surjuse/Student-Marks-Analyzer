@@ -1,6 +1,15 @@
 # 🎓 Student Marks Analyzer — Premium Edition
 
 <p align="center">
+  <a href="https://student-marks-analyzer-jjtttka7ysyrfkj7wjhjoe.streamlit.app/">
+    <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-OPEN_APP-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo" />
+  </a>
+  <a href="https://github.com/roshan-surjuse/Student-Marks-Analyzer">
+    <img src="https://img.shields.io/badge/GitHub-SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Source Code" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=700&color=36BCF7&center=true&vCenter=true&width=650&lines=Student+Performance+Analytics;Built+with+Python+%26+Streamlit;Turning+Marks+into+Insights" alt="Animated typing header" />
 </p>
 
@@ -9,6 +18,20 @@
   <img src="https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit" />
   <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white" alt="Pandas" />
 </p>
+
+---
+
+## 🌐 Live Demo
+
+**Try the application online without installing anything!**
+
+<p align="center">
+  <a href="https://student-marks-analyzer-jjtttka7ysyrfkj7wjhjoe.streamlit.app/">
+    <strong>🚀 Launch Student Marks Analyzer</strong>
+  </a>
+</p>
+
+**Source Code:** [View the project on GitHub](https://github.com/roshan-surjuse/Student-Marks-Analyzer)
 
 ---
 
