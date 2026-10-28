@@ -14,7 +14,7 @@
 
 ## ✨ About the Project
 
-A student performance analysis application developed using Python, Pandas, and Streamlit. It helps organize marks, calculate academic results, and visualize student performance through an interactive interface.
+Student Marks Analyzer is an interactive student performance analysis application developed using Python, Pandas, and Streamlit. It helps organize student marks, calculate academic results, and visualize performance through a clean and user-friendly interface.
 
 ## 🚀 Features
 
@@ -40,45 +40,51 @@ A student performance analysis application developed using Python, Pandas, and S
 
 ## ⚙️ Installation
 
-**1. Clone the repository**
+### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-cd Student_Marks_Analyzer_Premium_Complete
+git clone https://github.com/roshan-surjuse/Student-Marks-Analyzer.git
+cd Student-Marks-Analyzer
 ```
 
-**2. Install dependencies**
+### 2. Install dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-**3. Launch the application**
+### 3. Launch the application
 
 ```bash
 streamlit run student_marks_analyzer.py
 ```
 
-Open the local URL displayed in your terminal, usually `http://localhost:8501`.
+Open the local URL displayed in your terminal, usually [http://localhost:8501](http://localhost:8501).
 
 ## 📂 Project Structure
 
 ```text
-Student_Marks_Analyzer_Premium_Complete/
+Student-Marks-Analyzer/
 ├── student_marks_analyzer.py
-├── students.csv
-├── analyzed_students.csv
 ├── requirements.txt
 ├── README.md
-└── .gitignore
+├── PROJECT_INFO.txt
+├── how to use.txt
+├── .gitignore
+└── .streamlit/
+    └── config.toml
 ```
 
 ## 🎯 Project Objective
 
-To demonstrate Python programming, academic data analysis, result calculation, data visualization, and interactive application development.
+To demonstrate Python programming, academic data analysis, automated result calculation, data visualization, and interactive application development.
+
+## 👨‍💻 Author
+
+**Roshan Surjuse**
 
 ---
 
 <p align="center">
-  <i>Built with Python • Designed for student performance analytics</i>
+  <i>Built with Python • Designed for Student Performance Analytics</i>
 </p>
