@@ -1,0 +1,19 @@
+Run karne ke liye
+
+
+
+cd "F:\PROJECT MSC\Student_Marks_Analyzer_Premium_Complete"
+
+
+python -m pip install streamlit
+
+
+
+python -m streamlit run student_marks_analyzer.py
+
+
+
+
+
+
+

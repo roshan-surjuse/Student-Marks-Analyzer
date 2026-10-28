@@ -1,0 +1,15 @@
+PROJECT 1 — STUDENT MARKS ANALYZER
+Edition: Premium Dashboard
+Domain: Python / Data Analytics
+Technology: Python, Pandas, Streamlit
+Level: Very Easy
+Estimated Time: 30–45 minutes
+
+Main File:
+student_marks_analyzer.py
+
+Data:
+students.csv
+
+Generated Report:
+analyzed_students.csv
